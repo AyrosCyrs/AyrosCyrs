@@ -1,0 +1,15 @@
+# Archivos compilados de Java (se generan solos, no son código real)
+*.class
+
+# Comprimidos de entregas viejas
+*.zip
+
+# Archivos de Mac/Windows que no sirven de nada
+.DS_Store
+Thumbs.db
+
+# Carpetas que Maven genera solas (si usas pom.xml como en tu practica_nueve)
+target/
+
+# Configuración local de tu editor (opcional, algunos prefieren compartirla)
+.vscode/
