@@ -14,9 +14,9 @@ Me gusta entender las cosas de punta a punta, no solo que funcionen. Por eso est
 
 ## Con qué trabajo
 
-**Lenguajes:** `Java` `Python` `Kotlin` `C` `Solidity` `Haskell` (ocasional)
-**Frameworks/Herramientas:** `Django` `Flask` `Flex/Bison` `Kali Linux` `Ghidra`
-**Ahora mismo aprendiendo a profundidad:** pandas, scikit-learn y fundamentos de ML/LLMs
+- **Lenguajes:** `Java` `Python` `Kotlin` `C` `Solidity` `Haskell` (ocasional)
+- **Frameworks/Herramientas:** `Django` `Flask` `Flex/Bison` `Kali Linux` `Ghidra`
+- **Ahora mismo aprendiendo a profundidad:** pandas, scikit-learn y fundamentos de ML/LLMs
 
 ---
 
