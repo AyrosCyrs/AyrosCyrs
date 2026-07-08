@@ -1,0 +1,10 @@
+# Entorno virtual (no se sube, se recrea con requirements.txt)
+venvcyr/
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Tu configuración real (privada, solo se sube el .example)
+settings.ini

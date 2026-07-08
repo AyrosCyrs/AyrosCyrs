@@ -1,0 +1,4 @@
+[settings]
+HOST_USERNAME=tu_nombre
+STARTING_VAL=0
+ENDPOINT=http://localhost:5000/

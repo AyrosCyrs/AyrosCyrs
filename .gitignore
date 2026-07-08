@@ -13,3 +13,10 @@ target/
 
 # Configuración local de tu editor (opcional, algunos prefieren compartirla)
 .vscode/
+
+# Estas carpetas son repos independientes, no deben rastrearse aquí
+Analisis-de-Algoritmos/
+Analizador-Yacc-Bison/
+EntornoConda/
+MusicApp/
+PigmentaCompiler/
