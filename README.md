@@ -101,4 +101,6 @@ A mediano plazo quiero profundizar en desarrollo full-stack (Django, Spring Boot
 - LinkedIn: [Claudia Osorio](https://www.linkedin.com/in/claudia-osorio-803b97318/)
 
 ---
+
 *Este perfil está en construcción — voy subiendo proyectos poco a poco* 🚧
+
